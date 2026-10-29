@@ -15,3 +15,4 @@
   случайная позиция яблока, наличие докстрингов — пройден.
 - `requirements.txt` адаптирован под Python 3.15: `pygame-ce` вместо
   `pygame==2.5.2`; на старых версиях Python подойдёт обычный pygame.
+- Закоммичено и запушено в https://github.com/roman-konst/snake_game (ветка `main`).
