@@ -1,0 +1,6 @@
+pygame-ce>=2.5.8
+pytest>=8.0
+pytest-timeout>=2.3
+flake8>=7.0
+flake8-docstrings>=1.7
+pep8-naming>=0.14
