@@ -13,8 +13,9 @@ python the_snake.py
 ```
 
 На Python 3.15 используется `pygame-ce` — совместимый форк pygame
-с тем же импортом `pygame`. На более старых версиях Python можно
-установить обычный `pygame==2.5.2`.
+с тем же импортом `pygame`. В `requirements.txt` зависимость выбрана
+по версии Python: `pygame==2.5.2` для Python < 3.13 и `pygame-ce`
+для Python 3.13+.
 
 ## Управление
 
